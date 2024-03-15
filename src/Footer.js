@@ -9,7 +9,7 @@ export default function Weather() {
       </a>
       , is open-sourced on&nbsp;
       <a
-        href="https://github.com/JacyDee274/my-new-weather-app"
+        href="https://github.com/JacyDee274/weatherreactappjacky"
         target="_blank"
         rel="noreferrer"
       >
@@ -17,7 +17,7 @@ export default function Weather() {
       </a>
       and hosted on&nbsp;
       <a
-        href="https://main--jackys-awesome-weather-app.netlify.app/"
+        href="https://weather-react-app-jacky.netlify.app/"
         target="_blank"
         rel="noreferrer"
       >
